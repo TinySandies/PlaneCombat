@@ -1,7 +1,7 @@
 package com.tinysand.application.bean.realize;
 
-import com.tinysand.application.bean.standard.FireType;
-import com.tinysand.application.bean.standard.GoodsType;
+import com.tinysand.application.bean.support.FireType;
+import com.tinysand.application.bean.support.GoodsType;
 import com.tinysand.application.bean.standard.Plane;
 import com.tinysand.application.util.GameUtils;
 

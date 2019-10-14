@@ -4,7 +4,7 @@ import com.tinysand.application.bean.realize.Bullet;
 import com.tinysand.application.bean.realize.Enemy;
 import com.tinysand.application.bean.realize.Goods;
 import com.tinysand.application.bean.realize.Player;
-import com.tinysand.application.bean.standard.Direction;
+import com.tinysand.application.bean.support.Direction;
 import com.tinysand.application.bean.standard.Plane;
 import com.tinysand.application.util.Constant;
 import com.tinysand.application.util.GameUtils;
@@ -298,7 +298,6 @@ public class GameFrame extends JFrame {
                                 DEFAULT_FRAME_WIDTH / 5, 35);
                     }
                 });
-
         }
 
         /**

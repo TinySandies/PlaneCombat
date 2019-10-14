@@ -1,6 +1,6 @@
 package com.tinysand.application.bean.realize;
 
-import com.tinysand.application.bean.standard.Direction;
+import com.tinysand.application.bean.support.Direction;
 import com.tinysand.application.bean.standard.Entity;
 import com.tinysand.application.util.GameUtils;
 

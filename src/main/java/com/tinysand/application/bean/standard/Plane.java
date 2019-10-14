@@ -2,6 +2,9 @@ package com.tinysand.application.bean.standard;
 
 import com.tinysand.application.bean.realize.Bullet;
 import com.tinysand.application.bean.realize.Goods;
+import com.tinysand.application.bean.support.Direction;
+import com.tinysand.application.bean.support.FireType;
+import com.tinysand.application.bean.support.ResultOfHit;
 
 import java.util.Arrays;
 import java.util.List;
